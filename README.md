@@ -1,4 +1,6 @@
-# Opportunity Expiry Predictor (IBM Z / LinuxONE Ready)
+# Opportunity Expiry Predictor (IBM Z / LinuxONE)
+**Team Name :- AI.Verse**
+IBM datathon 2026 (Group Project)
 
 An AI-powered full-stack web application designed to help students, graduates, and job seekers discover, track, evaluate, and prioritize high-value opportunities—including scholarships, internships, competitive examinations, hackathons, fellowships, and job openings.
 
